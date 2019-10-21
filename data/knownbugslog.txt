@@ -1,0 +1,22 @@
+<ul>
+	<li>
+	Steam Overlay Browser
+		<ul>
+			<li>Image based hyperlinks opened in a new tab sometimes lead to the image URL instead of the intended link</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	Android Mobile Browser
+		<ul>
+			<li>Main navigation buttons in header do not appear at minimum zoom</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	Chrome for Android
+		<ul>
+			<li>Main navigation buttons in header do not appear (blink when zoomed but do not remain)</li>
+		</ul>
+	</li>
+</ul>

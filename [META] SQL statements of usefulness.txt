@@ -1,0 +1,5 @@
+Partial string search and replace across entire table (single column, all records)
+
+UPDATE `aido727_items`.`upgrades` SET `img` = Replace(img, 'http://media.steampowered.com', 'https://steamcdn-a.akamaihd.net')
+
+UPDATE `aido727_items`.`heroes` SET `situational_items` = Replace(situational_items, 'Boots of Travel', 'Boots of Travel (Lvl 1)')

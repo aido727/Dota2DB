@@ -1,0 +1,191 @@
+<ul>
+<li>
+	26th of April 2016:
+		<ul>
+			<li>6.87 balance update</li>
+		</ul>
+	</li>
+<br/>
+<li>
+	17th of December 2015:
+		<ul>
+			<li>6.86 balance update</li>
+		</ul>
+	</li>
+<br/>
+<li>
+	25th of September 2015:
+		<ul>
+			<li>6.85 balance update</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	3rd of May 2015:
+		<ul>
+			<li>6.84 balance update</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	23rd of February 2015:
+		<ul>
+			<li>Winter Wyvern - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	18th of December 2014:
+		<ul>
+			<li>6.83 balance update</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	23rd of November 2014:
+		<ul>
+			<li>Oracle - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	26th of September 2014:
+		<ul>
+			<li>6.82 balance update</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	5th of September 2014:
+		<ul>
+			<li>Techies - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	4th of June 2014:
+		<ul>
+			<li>6.81b balance update</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	13th of May 2014:
+		<ul>
+			<li>Added missing Cheese cooldown</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	1st of May 2014:
+		<ul>
+			<li>6.81 balance update - including all new hero item suggestions</li>
+			<li>Updated Hero UAM links</li>
+			<li>Outworld Devourer - Added missing UAM</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	30th of January 2014:
+		<ul>
+			<li>6.80 balance update</li>
+			<li>Terrorblade - Hero added</li>
+			<li>Phoenix - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	30th of December 2013:
+		<ul>
+			<li>Added: Item data for Disassemblable filter</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	16th of December 2013:
+		<ul>
+			<li>Legion Commander - Hero added</li>
+			<li>Hand of Midas - Recipe cost increased (6.79c)</li>
+			<li>Renamed: Skeleton King to Wraith King (Map Icon and Wiki link also updated)</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	24th of November 2013:
+		<ul>
+			<li>Renamed: Windrunner to Windranger</li>
+			<li>Renamed: Lycanthrope to Lycan</li>
+			<li>Renamed: Necrolyte to Necrophos</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	18th of November 2013:
+		<ul>
+			<li>Earth Spirit - Hero added</li>
+			<li>Ember Spirit - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	28th of October 2013:
+		<ul>
+			<li>6.79 balance update for Flying Courier (Entire update now complete)</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	25th of October 2013:
+		<ul>
+			<li>6.79 balance update (Except Flying Courier)</li>
+			<li>Desolator - Added note that armor reduction applies to towers</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	13th of July 2013:
+		<ul>
+			<li>Abaddon - Hero added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	3rd of July 2013:
+		<ul>
+			<li>6.78 balance update</li>
+			<li>Spirit Breaker - Corrected Core Items</li>
+			<li>Force Staff - Added missing Intelligence bonus</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	21st of May 2013:
+		<ul>
+			<li>Power Treads - Missing recipe added</li>
+			<li>Yasha - Corrected Attack Speed bonus</li>
+			<li>Manta Style - Added missing Intelligence bonus</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	20th of May 2013:
+		<ul>
+			<li>Hand of Midas - Added note that gold earned with Transmute is reliable</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	8th of May 2013:
+		<ul>
+			<li>Cheese - Added note that it can be sold for 500 gold</li>
+			<li>Eye of Skadi - Corrected Secret Shop tag from all parts available to some parts available</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	3rd of May 2013:
+		<ul>
+			<li>Everything to date (website released while this update was current)</li>
+		</ul>
+	</li>
+</ul>

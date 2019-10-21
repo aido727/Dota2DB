@@ -1,0 +1,37 @@
+http://dota2itemsdb.x10.mx/
+
+hero item guides need updating?
+
+for 6.87 - never finished
+
+heroes scepters done
+
+new items NOT DONE
+
+old items, up to: Shadow Amulet
+
+not done:
+Abyssal Blade - damage block as passive2 - bugged in phpeditor? won't let me add ANY passive2...
+check ? on Animal Courier
+check ? on Amrlet
+check ? on Blade Mail
+check ? on Crimson Guard
+Desolator
+Dragon Lance
+Drum
+Eul's
+Hood of Defiance
+Lotus Orb
+medallion
+check ? on ob ward
+check ? on perseverance
+pipe
+check ? on point booster
+check ? on refresher
+check ? on ring of aquila
+check ? on ring of bas
+ring of regen price change (check effected recipes)
+check ? on sange
+sange main change to differen weilders... (also, sange & yasha) - maim is too parts? (mve and atk slows)
+
+check item order

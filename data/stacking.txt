@@ -1,0 +1,11 @@
+NO STACKING:
+- damage blocking does NOT stack (each item gets a chance to fire, highest % first - Stout Shield, Poor Man's Shield, Vanguard) - 'block_chance'
+- Critical Strike does NOT stack (each item gets a chance to fire, highest % first - Crystalys, Daedalus) - 'passive_crit_chance'
+- Evasion stacks diminishingly (multiplicitively)
+- yasha stack = movement speed % bonus
+- eul's = no self movement speed (flat) stacking
+- bloodstone does NOT self stack, highest priorty slot is active
+- manabreak type abilities
+
+NOW STACKS:
+- magic resistance (Cloak, Hood of Defiance, Pipe of Insight) - same as usual magic resistance (multiplicatively?)

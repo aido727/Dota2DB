@@ -1,0 +1,126 @@
+<ul>
+<li>
+	17th of Decemberr 2015:
+		<ul>
+			<li>CHANGE: Duration of Consumable items can now be measured in decimals</li>
+			<li>CHANGE: "Magic Resistance" now changed to "Spell Resistance"</li>
+			<li>FEATURE: Items can now have a 2nd Active Ability (example: Iron Talon)</li>
+		</ul>
+	</li>
+<br/>
+<li>
+	24th of September 2015:
+		<ul>
+			<li>FEATURE: Google Analytics added</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	6th of May 2015:
+		<ul>
+			<li>FIX: Code cleanup to remove an alarming amount of harmless and pointless erorr log messages</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	5th of May 2015:
+		<ul>
+			<li>FIX: Power Treads now displays the "or" next to attributes in the full detail display</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	3rd of May 2015 (continuing through 6th of May):
+		<ul>
+			<li>UPGRADE: Database and script changes to handle 6.84 additions</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	2nd of February 2014:
+		<ul>
+			<li>FIX: Missing new lines in detailed item descriptions now visible</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	30th of January 2014:
+		<ul>
+			<li>FEATURE: Balance version number now links to changelog</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	30th of December 2013:
+		<ul>
+			<li>FEATURE: Items can now be filtered by their ability to be Disassemblabled</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	16th of December 2013:
+		<ul>
+			<li>FIX: Hero names in detail view now space correctly</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	28th of October 2013:
+		<ul>
+			<li>FIX: Recipes now show the gold cost of the 'recipe' item correctly</li>
+			<li>UPGRADE: Reworked Dire Courier images (database end), Couriers can now have Descriptions</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	19th of October 2013:
+		<ul>
+			<li>FIX: "%39" appearing in detailed item descriptions instead of "'"</li>
+			<li>CHANGE: Desolator Passive now worded to say "Target Armor" to clarify more</li>
+			<li>FIX: Fixed missing item specific prefixes/suffixes to certain stats and items from not appearing in tooltips</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	3rd of July 2013:
+		<ul>
+			<li>FIX: Fixed missing Attack Speed Reduction (%) for Upgrades items in detailed Item views</li>
+			<li>FIX: Fixed missing Mana Restored for Roshan Drop items in detailed Item views</li>
+			<li>CHANGE: Current Database Version now shows balance version number instead of patch date</li>
+			<li>FIX/CHANGE: Updating links from the Dota 2 Wiki relocation (images and hyperlinks)</li>
+			<li>CHANGE: Added Active Duration for Self or Ally to Upgrades category weapons (needed for 6.87 Ethereal Blade)</li>
+			<li>FIX/CHANGE: Removed Latest Dota 2 Update (new wiki will not scrape)</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	21st of May 2013:
+		<ul>
+			<li>FIX: Corrected incorrect versions of some item descriptions/information on the detailed item view</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	10th of May 2013:
+		<ul>
+			<li>FIX: Corrected spelling in header image ("Lastest" is now "Latest")</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	8th of May 2013:
+		<ul>
+			<li>FIX: Dire Courier tooltips now work</li>
+			<li>FIX: Added timer to Latest Dota 2 Update scrape to prevent occurance of "31st December 1969" and to reduce chance of script slow down due to timeout issues from scraping</li>
+			<li>NOTE: IE 9 and older are no longer supported</li>
+		</ul>
+	</li>
+<br/>
+	<li>
+	7th of May 2013:
+		<ul>
+			<li>NOTE: Website released to public!</li>
+			<li>NOTE: Current issues with versions of IE 9 and older noted</li>
+		</ul>
+	</li>
+</ul>

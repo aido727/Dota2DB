@@ -1,0 +1,7 @@
+Backend overhaul - collapse all items into 1 table, add a high level type field to replace individual tables
+	involves changing/simplfying SQL queries
+	neatens all code to use single calls for any item without needing to use multiple calls or tables
+Feature - sorting of results
+Feature - Update tagging method with "data-" HTML5 tags
+Feature - collapsable results
+Feature - Hero search by UAM
